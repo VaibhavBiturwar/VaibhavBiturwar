@@ -12,7 +12,7 @@
 - 📫 How to reach me: [social](https://vaibhavbiturwar.github.io/My-Portfolio/#myfooter)
 
 **Want to know more**<br>
-⏩ Head to my [Portfolio Website💨](https://vaibhavbiturwar.github.io/My-Portfolio/)
+⏩ Head to my [Portfolio Website💨](https://vaibhavbiturwar.github.io/My-Portfolio/)<br>
 ⏩ More intrested to see 👀 my Work? Head on to the [repositories](https://github.com/VaibhavBiturwar?tab=repositories).
 
 **languages and tools:**
