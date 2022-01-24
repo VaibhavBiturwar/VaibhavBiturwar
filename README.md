@@ -7,8 +7,8 @@
 
 - 🌱 I'm currently learning React
 - 👯 I'm looking to collaborate on Mobile App development 📱
-- 🤔 I'm looking for help with and React
-- 💬 Ask me about Java, Python,React and robots.
+- 🤔 I'm looking for help with React
+- 💬 Ask me about Java, Python, React and robots.
 - 📫 How to reach me: [social](https://vaibhavbiturwar.github.io/My-Portfolio/#myfooter)
 
 **Want to know more**
