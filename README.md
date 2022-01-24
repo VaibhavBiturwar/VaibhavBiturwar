@@ -11,11 +11,10 @@
 - 💬 Ask me about Java, Python, React and robots.
 - 📫 How to reach me: [social](https://vaibhavbiturwar.github.io/My-Portfolio/#myfooter)
 
-Want to know more
-<p>
+**Want to know more**
 ⏩ Head to my [Portfolio Website💨](https://vaibhavbiturwar.github.io/My-Portfolio/)
 ⏩ More intrested to see 👀 my Work? Head on to the [repositories](https://github.com/VaibhavBiturwar?tab=repositories).
-</p>
+
 **languages and tools:**
 
 <p>
