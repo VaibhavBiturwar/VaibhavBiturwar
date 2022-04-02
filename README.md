@@ -6,10 +6,10 @@
 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-tata-motors-limited-an-indian-multinational-automotive-manufacturing-company-automotive-color-tal-revivo.png"/>
 <br> As a Servicenow Developer </p>
 
-- 🌱 I'm currently learning React
+- 🌱 I'm currently learning React Native
 - 👯 I'm looking to collaborate on Mobile App development 📱
-- 🤔 I'm looking for help with React
-- 💬 Ask me about Java, Python, React and robots.
+- 🤔 I'm looking for help with React Native
+- 💬 Ask me about Java, Python, React and tech.
 - 📫 How to reach me: [social](https://vaibhavbiturwar.github.io/My-Portfolio/#myfooter)
 
 **Want to know more**<br>
