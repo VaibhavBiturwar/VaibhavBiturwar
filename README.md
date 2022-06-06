@@ -1,10 +1,9 @@
 <h2> Hi 👋  I am</h2>
 <h1>Vaibhav Biturwar ☕ and I ♥ to code.</h1>
 <img align="right" height="300px" src="https://vaibhavbiturwar.github.io/My-Portfolio/images/emoji1.png">
-<p>You have probable never heard of me. I am a Mobile App developer and a Tech Enthusiast😃. 
-</p><p>Currently working at Tata Consultancy Services Ltd.
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-tata-motors-limited-an-indian-multinational-automotive-manufacturing-company-automotive-color-tal-revivo.png"/>
-<br> As a Servicenow Developer </p>
+<p>You have probable never heard of me. I am a React Native developer and a Tech Enthusiast😃. 
+</p><p>Currently working at Valere Labs. Pune.
+<br> As a Rect Native Developer </p>
 
 - 🌱 I'm currently learning React Native
 - 👯 I'm looking to collaborate on Mobile App development 📱
