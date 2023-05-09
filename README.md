@@ -54,6 +54,7 @@
 <p>
 <!-- IDE ▶ -->
 <img src="https://img.icons8.com/color/36/000000/visual-studio-code-2019.png"/>
-<img src="https://img.icons8.com/color/36/000000/android-studio--v2.png"/>
 <img src="https://img.icons8.com/fluency/36/000000/notepad-plus-plus.png"/>
+<img src="https://img.icons8.com/color/36/000000/android-studio--v2.png"/>
+<img src="https://img.icons8.com/?size=36&id=51974&format=png"/>
 </p>
