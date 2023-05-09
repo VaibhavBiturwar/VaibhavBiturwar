@@ -37,7 +37,7 @@
 
 <p>
 <!-- Web Technologies ▶ -->  
-<img src="[https://img.icons8.com/color/36/000000/javascript--v1.png](https://icons8.com/icon/uJM6fQYqDaZK/typescript)"/>
+<img src="https://icons8.com/icon/uJM6fQYqDaZK/typescript"/>
 <img src="https://img.icons8.com/color/36/000000/javascript--v1.png"/>
 <img src="https://img.icons8.com/color/36/000000/html-5--v1.png"/>
 <img src="https://img.icons8.com/color/36/000000/css3.png"/>
