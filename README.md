@@ -2,7 +2,7 @@
 <h1>Vaibhav Biturwar ☕ and I ♥ to code.</h1>
 <img align="right" height="300px" src="https://vaibhavbiturwar.github.io/My-Portfolio/images/emoji1.png">
 <p>You have probable never heard of me. I am a React Native developer and a Tech Enthusiast😃. 
-</p><p>Currently working at Valere Labs. Pune.
+</p><p>working at CakeSoft Technologies, Pune.
 <br> As a Rect Native Developer </p>
 
 - 🌱 I'm currently learning React Native
