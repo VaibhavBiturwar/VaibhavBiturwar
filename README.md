@@ -1,9 +1,9 @@
 <h2> Hi 👋  I am</h2>
 <h1>Vaibhav Biturwar ☕ and I ♥ to code.</h1>
 <img align="right" height="300px" src="https://vaibhavbiturwar.github.io/My-Portfolio/images/emoji1.png">
-<p>You have probable never heard of me. I am a React Native developer and a Tech Enthusiast😃. 
-</p>working at CakeSoft Technologies, Pune.<p>
-<br> As a Rect Native Developer </p>
+<p>You have probable never heard of me. I am a React Native developer and a Tech Enthusiast😃, working at CakeSoft Technologies, Pune
+<br>as a Senior Software Engineer.
+</p>
 
 - 🌱 I'm currently learning React Native
 - 👯 I'm looking to collaborate on Mobile App development 📱
